@@ -1,18 +1,8 @@
 [
-{"question":"This is a Sample Question 1?",
+{"question":" The flexibility matrix method is used to analyze statically indeterminate planar trusses.",
 "answers":{
-            "a":"answer1",
-            "b":"answer2",
-            "c":"answer3",
-            "d":"answer4"
+            "a":"True",
+            "b":"False"
           },
-"correctAnswer":"a"},
-{"question":"This is a Sample Question 2?",
-"answers":{
-            "a":"answer1",
-            "b":"answer2",
-            "c":"answer3",
-            "d":"answer4"
-          },
-"correctAnswer":"c"} 
+"correctAnswer":"b"}
 ]
