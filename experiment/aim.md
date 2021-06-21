@@ -6,5 +6,3 @@ A planar truss is one where all the members and nodes lie within a two dimension
 #### Objective
 
 To know the shear force diagram and bending moment diagram for a given portal frame.
-
-[Read more](http://bsa-iiith.vlabs.ac.in/exp8/Exp-8%20Trusses.pdf)
