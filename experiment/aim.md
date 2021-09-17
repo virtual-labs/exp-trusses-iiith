@@ -3,6 +3,3 @@ A truss is a structure comprising one or more triangular units constructed with 
 A planar truss is one where all the members and nodes lie within a two dimensional plane, while a space truss has members and nodes extending into three dimensions. A truss is composed of triangles because of the structural stability of that shape and design. A triangle is the simplest geometric figure that will not change shape when the lengths of the sides are fixed. In comparison, both the angles and the lengths of a four-sided figure must be fixed for it to retain its shape.
 
 
-#### Objective
-
-To know the shear force diagram and bending moment diagram for a given portal frame.
