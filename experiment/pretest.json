@@ -1,18 +1,14 @@
 [
-{"question":"This is a Sample Question 1?",
+{"question":"If a truss is in equilibrium, then each of its joints must also be in equilibrium.",
 "answers":{
-            "a":"answer1",
-            "b":"answer2",
-            "c":"answer3",
-            "d":"answer4"
+            "a":"True",
+            "b":"False"
           },
-"correctAnswer":"a"},
-{"question":"This is a Sample Question 2?",
+"correctAnswer":"b"},
+{"question":"Truss members are all straight two-force members lying in the same plane.",
 "answers":{
-            "a":"answer1",
-            "b":"answer2",
-            "c":"answer3",
-            "d":"answer4"
+            "a":"True",
+            "b":"False"
           },
-"correctAnswer":"c"} 
+"correctAnswer":"b"} 
 ]
